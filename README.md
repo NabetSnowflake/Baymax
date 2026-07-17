@@ -14,43 +14,34 @@
 
 ---
 
-## 🖼️ Registro Visual del Prototipo
+## Registro Visual del Prototipo
 
 <align="center">
   <img src="./Audiovisual/render_final.png" width="350" alt="Render del Robot Balancín Baymax">
   <img src="./Audiovisual/baymax_inspiration.png" width="280" alt="Inspiración Baymax">
 </align>
 
-*Figura 1: Vista general del ensamble finalizado en Fusion360 incorporando el soporte estructural, electrónica y mallado exterior inspirado en Baymax (derecha).*
+*Figura 1: Robot balancín inspirado en el personaje Baymax, de la película "Big Heroes".*
 
 ---
 
-## 📋 Índice o Descripción del Contenido
+## Índice de Contenido
 
 Este repositorio contiene la documentación técnica completa, archivos de fabricación y algoritmos que sustituyen al informe final del proyecto. La estructura se organiza de la siguiente manera:
 
-1. [📖 Descripción del Proyecto](#-descripción-del-proyecto)
-2. [📐 CAD (Diseño y Fabricación)](#-cad-diseño-y-fabricación)
-3. [📦 BOM (Componentes y Materiales)](#-bom-componentes-y-materiales)
-4. [💻 Código (Firmware y Control)](#-código-firmware-y-control)
-5. [🔌 Diagramas (Esquemas y Control Automático)](#-diagramas-esquemas-y-control-automático)
-6. [📹 Audiovisual (Avances y Resultados)](#-audiovisual-avances-y-resultados)
-7. [📚 Referencias y Citas](#-referencias-y-citas)
+1. [Descripción del Proyecto](#-descripción-del-proyecto)
+2. [CAD (Diseño y Fabricación)](#-cad-diseño-y-fabricación)
+3. [BOM (Componentes y Materiales)](#-bom-componentes-y-materiales)
+4. [Código (Firmware y Control)](#-código-firmware-y-control)
+5. [Diagramas (Esquemas y Control Automático)](#-diagramas-esquemas-y-control-automático)
+6. [Audiovisual (Avances y Resultados)](#-audiovisual-avances-y-resultados)
+7. [Referencias y Citas](#-referencias-y-citas)
 
 ---
 
-## 📖 Descripción del Proyecto
+## Descripción del Proyecto
 
-Este proyecto consiste en el diseño, modelado, manufactura y programación de un **robot móvil de dos ruedas paralelas basado en el principio del péndulo invertido**. El dispositivo posee su centro de masa por encima del eje de tracción, requiriendo de una corrección activa para sostenerse de forma autónoma en un ángulo vertical inestable ($0^\circ$).
-
-La propuesta conceptual toma como inspiración al personaje de ciencia ficción **Baymax**, buscando emular la naturaleza de su control de movimiento aerodinámico y propulsores a través de la estabilización dinámica sobre dos ruedas.
-
-### Objetivos del Proyecto
-* **Objetivo General:** Fabricar un robot de 2 ruedas con la capacidad de mantenerse autónomamente en una posición vertical mediante un control PID, integrando una temática futurista a la estética del robot.
-* **Objetivos Específicos:**
-  * Modelar las partes de soporte electrónico y la volumetría estética en Fusion360.
-  * Manufacturar mediante técnicas combinadas de corte láser en acrílico (componentes planos rígidos) e impresión 3D en PLA (geometrías complejas).
-  * Programar e implementar un algoritmo de control PID que minimice el ángulo de inclinación ante perturbaciones externas respecto al centro de masa.
+Este proyecto consiste en el diseño, modelado, manufactura y programación de un **robot móvil de dos ruedas paralelas basado en el principio del péndulo invertido**. El robot debe poseer su centro de masa por encima del eje de tracción, por lo que se requiere el uso de un control PID para mantener un ángulo en torno al equilibrio inestable presente en la posición vertical. Además, se propuso el tema de un robot futurista, inspirado en el presonaje Baymax.
 
 ---
 
