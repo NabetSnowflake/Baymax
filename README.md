@@ -1,6 +1,6 @@
 # Robot Balancín Baymax: Control de Péndulo Invertido con Estética Futurista
 
-## 👥 Colaboradores
+## Integrantes
 * **Ignacio Montero**
 * **Ignacio Sanhueza**
 * **Matias Yanine**
@@ -45,14 +45,14 @@ Este proyecto consiste en el diseño, modelado, manufactura y programación de u
 
 ---
 
-## 📐 CAD (Diseño y Fabricación)
+## CAD (Diseño y Fabricación)
 La carpeta [`/CAD`](./CAD) contiene los archivos de ingeniería necesarios para replicar la estructura del robot:
 * **Modelos 3D:** Archivos nativos de Autodesk Fusion360 y formatos de intercambio estándar `.STEP` que integran el chasis en diagonal, soportes de motores y el mallado exterior de Baymax.
 * **Planos 2D:** Archivos vectoriales (`.DXF` / `.SVG`) configurados para el proceso de corte láser de las placas base rígidas.
 
 ---
 
-## 📦 BOM (Componentes y Materiales)
+## BOM (Componentes y Materiales)
 La carpeta [`/BOM`](./BOM) detalla la Lista de Materiales (Bill of Materials) del dispositivo. El diseño modular se optimizó distribuyendo los elementos en soportes compactos en diagonal para maximizar el uso del espacio interno:
 
 | Componente / Material | Función Tecnológica | Criterio de Manufactura o Implementación |
@@ -65,7 +65,7 @@ La carpeta [`/BOM`](./BOM) detalla la Lista de Materiales (Bill of Materials) de
 
 ---
 
-## 💻 Código (Firmware y Control)
+## Código (Firmware y Control)
 La carpeta [`/Codigo`](./Codigo) almacena el archivo principal `.ino` de firmware desarrollado para la plataforma. El algoritmo adquiere las lecturas cinemáticas de la IMU, calcula el error angular respecto a la vertical y ajusta el sentido de giro y ciclo de trabajo (PWM) de los motores.
 
 ### Parámetros sintonizados para el Controlador PID
