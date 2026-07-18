@@ -31,7 +31,7 @@ Este repositorio contiene la documentación técnica completa, archivos de fabri
 1. [Descripción del Proyecto]
 2. [CAD (Diseño)]
 3. [BOM (Componentes y Materiales)]
-4. [Código (Firmware y Control)]
+4. [Código (Calibración y Control PID)]
 6. [Audiovisual (Avances y Resultados)]
 
 ---
