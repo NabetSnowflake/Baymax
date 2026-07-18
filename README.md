@@ -28,13 +28,11 @@
 
 Este repositorio contiene la documentación técnica completa, archivos de fabricación y algoritmos que sustituyen al informe final del proyecto. La estructura se organiza de la siguiente manera:
 
-1. [Descripción del Proyecto](#-descripción-del-proyecto)
-2. [CAD (Diseño y Fabricación)](#-cad-diseño-y-fabricación)
-3. [BOM (Componentes y Materiales)](#-bom-componentes-y-materiales)
-4. [Código (Firmware y Control)](#-código-firmware-y-control)
-5. [Diagramas (Esquemas y Control Automático)](#-diagramas-esquemas-y-control-automático)
-6. [Audiovisual (Avances y Resultados)](#-audiovisual-avances-y-resultados)
-7. [Referencias y Citas](#-referencias-y-citas)
+1. [Descripción del Proyecto]
+2. [CAD (Diseño)]
+3. [BOM (Componentes y Materiales)]
+4. [Código (Firmware y Control)]
+6. [Audiovisual (Avances y Resultados)]
 
 ---
 
