@@ -1,0 +1,12 @@
+# Paso 1: Ver qué archivos has modificado o creado nuevos
+git status
+
+# Paso 2: Seleccionar los archivos que quieres preparar para subir
+# El punto (.) significa "seleccionar absolutamente todos los cambios"
+git add .
+
+# Paso 3: Guardar el estado actual con un mensaje descriptivo de lo que hiciste
+git commit -m "Docs: Reestructurar carpetas de BOM y Codigo"
+
+# Paso 4: Subir los cambios de tu computadora directamente a GitHub
+git push origin main
