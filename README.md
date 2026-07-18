@@ -19,7 +19,6 @@
 
 <align="center">
   <img width="350" height="320" alt="a1efa50e-f962-4aa4-a89f-e16bbc3a32e7" src="https://github.com/user-attachments/assets/3aa16ee2-ad40-4760-a161-078bc701e303" />
-  <img src="./Audiovisual/baymax_inspiration.png" width="280" alt="Inspiración Baymax">
 </align>
 
 *Figura 1: Robot balancín inspirado en el personaje Baymax, de la película "Big Heroes".*
