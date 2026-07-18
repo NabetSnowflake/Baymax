@@ -39,11 +39,3 @@ Este repositorio contiene la documentación técnica completa, archivos de fabri
 ## Descripción del Proyecto
 
 Este proyecto consiste en el diseño, modelado, manufactura y programación de un **robot móvil de dos ruedas paralelas basado en el principio del péndulo invertido**. El robot debe poseer su centro de masa por encima del eje de tracción, por lo que se requiere el uso de un control PID para mantener un ángulo en torno al equilibrio inestable presente en la posición vertical. Además, se propuso el tema de un robot futurista, inspirado en el presonaje Baymax.
-
----
-
-## CAD (Diseño y Fabricación)
-La carpeta [`/CAD`](./CAD) contiene los archivos de ingeniería necesarios para replicar la estructura del robot:
-* **Modelos 3D:** Archivos nativos de Autodesk Fusion360 y formatos de intercambio estándar `.STEP` que integran el chasis en diagonal, soportes de motores y el mallado exterior de Baymax.
-* **Planos 2D:** Archivos vectoriales (`.DXF` / `.SVG`) configurados para el proceso de corte láser de las placas base rígidas.
-
