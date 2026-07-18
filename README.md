@@ -1,4 +1,4 @@
-<img width="1201" height="1600" alt="ec70d604-44b5-45b1-96e1-355e0dbf1e90" src="https://github.com/user-attachments/assets/50b07cf7-6e70-4e63-86cf-c1a886398407" />
+
 # Robot Balancín Baymax: Control de Péndulo Invertido con Estética Futurista
 
 ## Integrantes
@@ -18,7 +18,7 @@
 ## Registro Visual del Prototipo
 
 <align="center">
-  <img src="./Audiovisual/render_final.png" width="350" alt="Render del Robot Balancín Baymax">
+  <img width="350" height="320" alt="a1efa50e-f962-4aa4-a89f-e16bbc3a32e7" src="https://github.com/user-attachments/assets/3aa16ee2-ad40-4760-a161-078bc701e303" />
   <img src="./Audiovisual/baymax_inspiration.png" width="280" alt="Inspiración Baymax">
 </align>
 
