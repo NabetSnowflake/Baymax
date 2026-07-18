@@ -1,16 +1,16 @@
 # Robot Balancín Baymax: Control de Péndulo Invertido con Estética Futurista
 
+**Institución:** Universidad de Chile
+**Facultad:** Facultad de Ciencias Físicas y Matemáticas (FCFM)  
+**Departamento:** Departamento de Ingeniería Mecánica (DIMEC)
+**Laboratorio:** LEMUR (Laboratorio de Mecatrónica y Robótica)
+**Asignatura:** ME4250 Mecatrónica (Semestre 2025-2)
+
 ## Integrantes
 * **Ignacio Montero**
 * **Ignacio Sanhueza**
 * **Matias Yanine**
 * **Rodrigo Pino**
-
-* **Institución:** Universidad de Chile
-* **Facultad:** Facultad de Ciencias Físicas y Matemáticas (FCFM)  
-* **Departamento:** Departamento de Ingeniería Mecánica (DIMEC)
-* **Laboratorio:** LEMUR (Laboratorio de Mecatrónica y Robótica)
-* **Asignatura:** ME4250 Mecatrónica (Semestre 2025-2)
 
 ---
 
