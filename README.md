@@ -32,7 +32,7 @@ Este repositorio contiene la documentación técnica completa, archivos de fabri
 2. [CAD (Diseño)]
 3. [BOM (Componentes y Materiales)]
 4. [Código (Calibración y Control PID)]
-6. [Audiovisual (Avances y Resultados)]
+6. [Contenido Audiovisual (Fotos y videos)]
 
 ---
 
